@@ -11,8 +11,8 @@ import pic10 from '../assets/images/pic10.jpg'
 const Contact = (props) => (
     <Layout>
         <Helmet>
-            <title>Landing - Forty by HTML5 UP</title>
-            <meta name="description" content="Landing Page" />
+            <title>Contact Us - Damian Buttle Web Design</title>
+            <meta name="description" content="Contact Us" />
         </Helmet>
 
         <BannerLanding />
