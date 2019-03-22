@@ -9,7 +9,7 @@ import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
 
 const Web = (props) => (
-    <Layout>
+    <SubLayout>
         <Helmet>
             <title>Web Development - Damian Buttle Web Design</title>
             <meta name="description" content="Web Development" />
@@ -88,7 +88,7 @@ const Web = (props) => (
             </section>
         </div>
 
-    </Layout>
+    </SubLayout>
 )
 
 export default Web
